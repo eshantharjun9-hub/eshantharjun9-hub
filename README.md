@@ -42,11 +42,6 @@
 ## 📈 GitHub Stats
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eshantharjun9-hub&show_icons=true&theme=radical" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshantharjun9-hub&layout=compact&theme=radical" width="47%" />
-
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=eshantharjun9-hub&theme=radical" width="94%" />
