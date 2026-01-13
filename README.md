@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 <YOUR EDUCATION / COLLEGE / CLASS>BTECH/VEDAM SCHOOL OF TECHNOLOGY
+- BTECH/VEDAM SCHOOL OF TECHNOLOGY
 - 💻 Interested in <YOUR MAIN FIELDS>FULL STACK
 - 🌱 Currently learning <WHAT YOU ARE LEARNING NOW>JAVA SCRIPT
 - 🎯 Goal: <YOUR CAREER GOAL>GOOD SOFTWARE ENGINEER
@@ -31,11 +31,7 @@
 
 ---
 
-## 🏆 Achievements & Projects
 
-- 🏅 <ACHIEVEMENT / PROJECT 1>
-- 🏅 <ACHIEVEMENT / PROJECT 2>
-- 🏅 <ACHIEVEMENT / PROJECT 3>
 
 ---
 
