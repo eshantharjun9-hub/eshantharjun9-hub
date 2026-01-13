@@ -40,7 +40,8 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=eshantharjun9-hub&theme=radical" width="94%" />
+  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=eshantharjun9-hub&theme=radical)
+
 </p>
 
 ---
