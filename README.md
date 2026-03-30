@@ -171,12 +171,12 @@ daily(); // running since day one...
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eshantharjun9-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=e94560&text_color=c9d1d9&ring_color=00f5ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eshantharjun9-hub&theme=radical&hide_border=true&background=0d1117&stroke=00f5ff&ring=e94560&fire=e94560&currStreakLabel=00f5ff&sideLabels=00f5ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eshantharjun9-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=e94560&text_color=c9d1d9&ring_color=00f5ff" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=eshantharjun9-hub&theme=radical&hide_border=true&background=0d1117&stroke=00f5ff&ring=e94560&fire=e94560&currStreakLabel=00f5ff&sideLabels=00f5ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
 
 <br><br>
 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshantharjun9-hub&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eshantharjun9-hub&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
 
 </div>
 
